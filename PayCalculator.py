@@ -1,3 +1,5 @@
+# *The calculations in this code may be outdated or inaccurate. Please don't rely on it for facts.*
+
 import tkinter as tk
 from tkinter import N, E, S, W
 
